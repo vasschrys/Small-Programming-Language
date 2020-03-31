@@ -5,8 +5,8 @@ Then type in the command line:
 	 ./run 
 A list of options that the user can run will then print out.
 Choose of the options listed above, and run the program. 
-*Note the programming language only accepts code in the "Lisp" programming language. 
+***Note the programming language only accepts code in the "Lisp" programming language. 
 All entered expressions must be written in this format. 
-Ex: (+ 2 4)  or (+(- 3 5) (- 2 8))*
+Ex: (+ 2 4)  or (+(- 3 5) (- 2 8)) 
 
  
